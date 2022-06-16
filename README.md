@@ -10,8 +10,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | ES5 | ES6
-- 🌐 &nbsp; HTML5 | CSS3 | ReactJS | React-Hooks 
-- 💡 &nbsp; AJAX | JSON | Local Storage | API'S
+- 🌐 &nbsp; HTML5 | CSS3 | Material UI |  ReactJS | React-Hooks | React-redux
+- 💡 &nbsp;  JSON | Local Storage | Rest API'S | GitHub
 - 🔧 &nbsp; Git | Visual Studio Code | Atom | Postman | Netlify | Git-Hub Pages
 
 <h3> 🤝🏻 Connect with Me </h3>
